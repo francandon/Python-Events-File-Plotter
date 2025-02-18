@@ -1,0 +1,3 @@
+[submodule "FluxResponse"]
+	path = FluxResponse
+	url = git@github.com:francandon/FluxResponse.git
